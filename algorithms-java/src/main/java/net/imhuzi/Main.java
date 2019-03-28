@@ -1,3 +1,5 @@
+package net.imhuzi;
+
 /**
  * @author Huzi.Wang[imhuzi.wh@gmail.com]
  * @version 1.0
